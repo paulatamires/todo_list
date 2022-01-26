@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TO DO</string>
+    <string name="data">Data</string>
+    <string name="label_new_task">Criar tarefa</string>
+    <string name="label_tittle">Título</string>
+    <string name="label_date">Data</string>
+    <string name="label_time">Hora</string>
+    <string name="label_cancel">Cancelar</string>
+    <string name="label_newtask">Tarefas</string>
+    <string name="label_desc_task">Nova tarefa</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Deletar</string>
+    <string name="label_dont_have_tasks">Ops! Você não tem nenhuma tarefa!</string>
+</resources>
